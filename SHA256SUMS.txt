@@ -1,0 +1,6 @@
+103e4a659fff5d2b827e9acf900ec75c165a5264ee4df1091cf515786cdfd3cb  测试记录.md
+9cd9ae7b1d9bcf822d41a98c0c87083cc121be3d9ca7dd3d78f12d0fa3288e37  使用与兼容说明.md
+585be7e04699bf0b3b55cc200e2872dc9da9e99f61ed8966eae4a4be98ae192f  MousePower-1.0.0-portable-x64.zip
+c2342ed08be1ddc7a736bc6d6cba9ccfdde0a9ca469683c769874fae1940f270  MousePower-1.0.0-Setup-x64.exe
+4e238db45129ae8eadabb7851a25eb0a5d9cc61ad9de75e1345321cc488ce2d3  MousePower-1.0.0-source.zip
+f4ef6d55ebf5153ae0bf10901bf02837258678a1dc95e3dc50e9fe84ea73aa18  MousePower-preview.png
